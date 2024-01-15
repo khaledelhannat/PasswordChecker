@@ -1,7 +1,5 @@
-# PasswordChecker
-If the security of your account is truly important to you, you should find out if your password has ever been compromised, and if you want to do this You're probably going to use one of the websites or apps, and I should warn you that doing so puts you at risk of being hacked in some way, because the password you entered on this website was actually taken and stored in a sizable database somewhere in the world, and you have no idea what will happen to it from there.
-
-+ To address this issue I'll create a program that examines the password and determines whether it has ever been compromised and how many times, By retrieving some information from a database that is specifically designed to keep track of these instances and completing the entire process on your device without your password leaving your computer, In this instance, you can be certain that it has never been hacked and that you are totally secure. <br> No platform or person in the world is aware of your password.
+# Password Checker
+made by Python, is designed to assess the strength of user-provided passwords. It evaluates various criteria, such as length, inclusion of uppercase and lowercase letters, numbers, and special characters. The aim is to encourage the creation of robust and secure passwords that can withstand potential cyber threats.
 
 ## Program logic is as follows:
 => create a function that sends a request to the destination website and returns data. <br>
